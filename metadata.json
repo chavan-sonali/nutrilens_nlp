@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens - NLP Food Nutrition Search & Recommendation Engine",
+  "description": "An NLP-powered food nutrition search, text classification, and recommendation engine converting natural language queries into nutrition-aware answers with TF-IDF, semantic search, and NLU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
